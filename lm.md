@@ -14,7 +14,7 @@
 > - GBDT(Gradient Boosting Dicision Tree) + LM --> fraud transcation detection of credit card
 > - CTR(click through rate) estimation
   
-## **Part 2 Coding
+## **Part 2 Coding**
 
 1. packages preparation
 ```

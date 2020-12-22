@@ -1,0 +1,14 @@
+# Day 1 - Logit Regression
+
+## Part 1 Intro to Logit Model - used as base model due to low fitting accuracy
+
+Pros: high computing speed with low storage need
+Cons: low fitting accuracy
+
+eg: GBDT+LR --> fraude transaction detecting; CTR estimating;
+
+
+
+
+## Part 2 Coding LR Model
+

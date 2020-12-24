@@ -1,4 +1,4 @@
-> - **numpy packages**
+ **NumPy**
 
 NumPy array elements should all be the same type, or rather, it will automatically cast to the same.
 

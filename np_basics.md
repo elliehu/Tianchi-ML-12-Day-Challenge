@@ -10,7 +10,7 @@ np.array([range(i, i + 3) for i in [2, 4, 6]])
 
 ```
 
-1. **Data Types**
+# 1. **Data Types**
 ```python
 # creating integer array filled the zeros
 np.zeros(10, dtype = int)
@@ -47,9 +47,9 @@ np.eye(3)
 
 
 
-2. **Manipulating Array**
+# 2. **Manipulating Array**
 
-- Array slicing
+## - Array slicing
 ``` python
 
 import numpy as np

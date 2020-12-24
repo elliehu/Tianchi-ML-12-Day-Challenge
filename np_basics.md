@@ -89,5 +89,24 @@ x[::-1] # all elements reversed
 
 x[5::-2] # array([5, 3, 1])
 
+
+print(x2)
+# array([[12, 5, 2, 4],
+#        [7,  6, 8, 8].
+#        [1,  6, 7, 7]])
+
+x2[:2, :3] # two rows, three columns
+# array([[12, 5, 2],
+#        [7,  6, 8]])
+
+x2[::-1, ::-1] # reversing whole numpy array
+# array([[7, 7, 6, 1],
+#        [8, 8, 6, 7].
+#        [4, 2, 5, 12]])
+
+
+print(x2[:, 0]) # first colum of x2
+print(x2[0, :]) # first row of x2
+print(x2[0]) # first row of x2, easier way to write code
 ```
 
